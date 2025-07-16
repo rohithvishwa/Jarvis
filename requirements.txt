@@ -1,0 +1,13 @@
+transformers
+sentencepiece
+datasets[audio]
+accelerate
+sounddevice
+langchain-huggingface
+langchain
+langchain-community
+torch --extra-index-url https://download.pytorch.org/whl/cu121
+torchvision --extra-index-url https://download.pytorch.org/whl/cu121
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu121
+streamlit
+streamlit-audiorec
